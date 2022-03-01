@@ -1,0 +1,19 @@
+"[Container Name]","SIC_Entity_Creation"
+"[Test Name]","Trial"
+"[Test Description]",""
+"[Test Manual Name]",""
+"[Test Run]","Y"
+
+"[Browsers]","[Browser Name]","[Browser Selection]"
+,"MicroSoft Edge","N"
+,"Chrome","Y"
+,"Internet Explorer","N"
+,"Firefox","N"
+,"Safari","N"
+,"MOBILE","N"
+
+"[Test Steps]","[Step]","[Page]","[Object]","[Action]","[Command]","[Screenshot]","[OnPass]","[OnFail]"
+,"1","Reusable Objects","AddDep_SIC_Demographics_9address","NA","NA","N","2","2"
+
+"[Data Sheet]","[DS_OS]","[DS_BROWSER]","[DS_ID]","[DS_FLAG]","[DS_DESC]","[DS_TAGS]","[DS_TMID]","Address1_Correspondence","Address1_Executive","Address1_Payment","Address1_Physical","Address1_erisaplansponser","Address2_Correspondence","Address2_Executive","Address2_Payment","Address2_Physical","Address3_Correspondence","Address3_Payment","Address3_Physical","Address3_executive","Cellphone","Email","Gender","HomePhone","HomePhone_ext","InvalidEmailDomain","InvalidWorkEmail","MaritalStatus","MemberAdressZipCode","MemberMiddleName","OtherEmail","Suffix","WorkEmail","WorkPhone","WorkPhone_Ext","ZipCode_Correspondence","ZipCode_ErisaRegisterAgent","ZipCode_Payment","ZipCode_Physical","ZipCode_executive","address1_ErisarRgisterAgent","address1_erisaplanadmin","address2_ErisaRegisterAgent","address2_erisaplanadmin","address2_erisaplansponser","address3_ErisaRegisterAgent","address3_erisaplanadmin","address3_erisaplansponser","zipcode_erisaplanadmin","zipcode_erisaplansponser"
+,"ANY","Chrome","001","Y",,,,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
